@@ -15,7 +15,7 @@ export default{
     methods:{
         logout(){
             localStorage.clear();
-            this.$router.push({name:'LoginPage'})
+            this.$router.push({name:'SignUp'})
         }
 
     }
