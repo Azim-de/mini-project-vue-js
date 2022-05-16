@@ -13,7 +13,7 @@
 <input type="password" v-model="password" placeholder="Enter Password/">
 <button class="btn btn-outline-dark" v-on:click="signUp">Sign Up</button>
 <p>
-    <router-link to="/login-page">Login</router-link>
+    
 </p>
 </div>
 </div>
